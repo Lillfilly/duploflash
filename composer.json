@@ -1,0 +1,22 @@
+{
+    "name": "Duplo\Flash",
+    "type": "library",
+    "description": "A simple and easy way of using the session to store messages that survives redirects",
+    "keywords": ["flash", "session", "anax mvc", "education"],
+    "homepage": "http://dbwebb.se",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Duplo",
+            "email": "olor14@student.bth.se",
+            "homepage": "http://www.student.bth.se/~olor14/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": { "Duplo\\": "src/" }
+    }
+}
