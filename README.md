@@ -7,7 +7,7 @@ By Duplo, olor14@student.bth.se
 How to use
 -----------------
 1.	Install Anax MVC  (https://github.com/mosbth/Anax-MVC)
-2.	In your anax install folder, use composer to download and install this module
+2.	In your anax install folder, use composer to download and install this module (https://packagist.org/packages/duplo/flash)
 3.	Now you are good to go. An example on how to use this module is included in webroot/index.php.
 For more details see the documentation in src/Flash/FlashInSession.php
 
