@@ -1,5 +1,5 @@
 {
-    "name": "Duplo/Flash",
+    "name": "duplo/flash",
     "type": "library",
     "description": "A simple and easy way of using the session to store messages that survives redirects",
     "keywords": ["flash", "session", "anax mvc", "education"],
