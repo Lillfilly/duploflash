@@ -7,7 +7,7 @@ require __DIR__ . '/config_with_app.php';
 
 //Create services and inject into the app
 $di->set('flash', function() use ($di){
-    $flash = new \Anax\Flash\FlashInSession();
+    $flash = new \Duplo\Flash\FlashInSession();
     $flash->setDI($di);
     return $flash;
 });
