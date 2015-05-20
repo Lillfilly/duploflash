@@ -1,5 +1,10 @@
 Duplo\Flash
 =========
+
+[![Build Status](https://scrutinizer-ci.com/g/Lillfilly/duploflash/badges/build.png?b=master)](https://scrutinizer-ci.com/g/Lillfilly/duploflash/build-status/master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Lillfilly/duploflash/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Lillfilly/duploflash/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/Lillfilly/duploflash/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Lillfilly/duploflash/?branch=master)
+
 A module for Anax MVC that lets you use the session to save information that survives redirects.
 
 By Duplo, olor14@student.bth.se
